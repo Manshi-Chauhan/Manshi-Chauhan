@@ -1,62 +1,65 @@
-<!-- Header Typing SVG -->
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=250&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=B.Tech%20AIML%20%7C%20AKTU%20Lucknow%20%7C%20Class%20of%202028&descAlign=50&descAlignY=75&descColor=a5b4fc" />
+
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there%2C+I'm+Manshi+Chauhan+%F0%9F%91%8B;B.Tech+AIML+%7C+AKTU+Lucknow+%7C+Batch+2028;Building+Secure+%26+Intelligent+Software+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cryptography+%26+Security+Explorer+%F0%9F%94%90;Data+Science+Learner+%F0%9F%93%8A;SIH+2026+Hackathon+Participant+%F0%9F%87%AE%F0%9F%87%B3;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing" />
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF8C00,100:FF4500&height=180&section=header&text=Manshi%20Chauhan&fontAlign=70&fontAlignY=55&fontSize=48&fontColor=FFFFFF&animation=fadeIn&rotate=-5" width="100%"/>
-</div>
-
----
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### 🧠 Who Am I?
-
-```python
-class ManshiChauhan:
-    def __init__(self):
-        self.name        = "Manshi Chauhan"
-        self.degree      = "B.Tech CSE (AIML) · Class of 2028"
-        self.university  = "AKTU, Lucknow"
-        self.location    = "Kanpur, Uttar Pradesh 🇮🇳"
-        self.languages   = ["Python", "Java", "C", "C++", "SQL"]
-        self.interests   = [
-            "AI & Machine Learning 🤖",
-            "Cybersecurity & Cryptography 🛡️",
-            "Data Science 📊",
-            "Web Scraping & Automation 🌐",
-        ]
-        self.hackathons  = ["SIH 2026 🇮🇳"]
-        self.connections = "500+"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together.")
-
-me = ManshiChauhan()
-me.say_hi()
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Manshi-Chauhan/Manshi-Chauhan/main/assets/profile.jpg" width="200" style="border-radius:50%;border:4px solid #FF8C00;" alt="Manshi Chauhan"/>
 
 <br>
 
-<a href="mailto:manshichauhan923@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/manshi-chauhan"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Manshi-Chauhan"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<!-- QUICK BADGES ROW -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Kanpur,_UP,_India-6366f1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🎓_AKTU_Lucknow-8b5cf6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📅_B.Tech_'28-a78bfa?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-22c55e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤝_500+_Connections-0ea5e9?style=flat-square"/>
+</div>
+
+<br>
+
+<!-- ABOUT ME + PROFILE PHOTO -->
+<table>
+<tr>
+<td width="60%">
+
+## `$ whoami`
+
+```yaml
+name     : Manshi Chauhan
+pronouns : She / Her
+degree   : B.Tech — Computer Science (Specialized AIML)
+year     : 2024 → 2028  (2nd Year)
+univ     : Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+city     : Kanpur, Uttar Pradesh 🇮🇳
+linkedin : 500+ connections
+
+passion  :
+  - Turning data into decisions 📊
+  - Writing code that actually secures things 🔐
+  - Competing in national hackathons 🏆
+  - Making machines a little smarter every day 🤖
+
+currently:
+  - 📖 Studying: ML algorithms & Java Advanced OOP
+  - 🛠️ Building: Data pipelines & encryption tools
+  - 🎯 Target: Industry internship in AI / Security
+  - 🌱 Exploring: Deep Learning & ZK Proofs
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://raw.githubusercontent.com/Manshi-Chauhan/Manshi-Chauhan/main/assets/profile.jpg"
+     width="190"
+     style="border-radius:16px; border: 3px solid #818cf8; box-shadow: 0 8px 32px #6366f144;"
+     alt="Manshi Chauhan"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Work_🟢-2ea44f?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manshi-Chauhan&theme=dark&ring=FF8C00&fire=FF4500&currStreakLabel=FFA500&sideLabels=FFA500&border=FF8C00&background=0D1117" alt="Streak Stats"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manshi-chauhan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
 
 </td>
 </tr>
@@ -64,131 +67,197 @@ me.say_hi()
 
 ---
 
-## ⚡ Skill Arsenal
+## 🧰 My Toolbox
 
 <div align="center">
 
-| 🔤 Languages | 🤖 AI / Data Science | 🛡️ Cyber & Crypto | 🛠️ Tools |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Cryptography](https://img.shields.io/badge/Fernet-FF4500?style=flat-square&logo=keycdn&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![Ed25519](https://img.shields.io/badge/Ed25519-00599C?style=flat-square&logo=keybase&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux_Security-FCC624?style=flat-square&logo=linux&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=flat-square&logo=python&logoColor=white) | ![PDF/A-3](https://img.shields.io/badge/PDF%2FA--3-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Tkinter](https://img.shields.io/badge/Tkinter_GUI-FF8C00?style=flat-square&logo=python&logoColor=white) | ![OIML R-76](https://img.shields.io/badge/OIML_R--76-2ea44f?style=flat-square) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Security & Cryptography**
+
+![Cryptography](https://img.shields.io/badge/Fernet%20AES--CBC-7c3aed?style=for-the-badge&logo=keycdn&logoColor=white)
+![Ed25519](https://img.shields.io/badge/Ed25519%20Signatures-5b21b6?style=for-the-badge&logo=keybase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OIML](https://img.shields.io/badge/OIML%20R--76%20Standards-6366f1?style=for-the-badge)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter%20GUI-6366f1?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Projects I'm Proud Of
+
+<details open>
+<summary><b>🏆 Flagship — Smart India Hackathon (SIH 2026)</b></summary>
+<br>
+
+> ### 🇮🇳 OIML NAWI Metrology Tester R-76
+> **[`SIH26035`]** An automated, sovereign testing workbench for Non-Automatic Weighing Instruments (NAWI) built for the Smart India Hackathon 2026. Delivers cryptographically signed Digital Calibration Certificates (DCCs) and long-term archivable ISO PDF/A-3 reports.
+>
+> **Tech:** `Python` `TypeScript` `Docker` `Ed25519` `ISO 19005-3 PDF/A-3` `PTB DCC v3.2.1 XML` `Shell` `PowerShell`
+>
+> 🔗 [View Repository →](https://github.com/Manshi-Chauhan/OIML-NAWI-METROLOGY-TESTER-R-76)
+
+</details>
+
+<details open>
+<summary><b>🔐 Security & Cryptography</b></summary>
+<br>
+
+> ### Encryption & Decryption Desktop App
+> A polished GUI desktop application providing symmetric text encryption via Python's Fernet (AES-128-CBC + HMAC). Handles auto key generation, safe persistence, and graceful error handling — no key, no decryption.
+>
+> **Tech:** `Python` `Tkinter` `Cryptography (Fernet)` `Key Lifecycle Management`
+>
+> 🔗 [View Repository →](https://github.com/Manshi-Chauhan/Encryption-and-Decryption-Tool)
+
+</details>
+
+<details open>
+<summary><b>📊 Data Science & Analytics</b></summary>
+<br>
+
+> ### Road Accident Analyzer
+> Statistical analytics engine that dissects road accident datasets to surface causation patterns, risk hotspots, and actionable safety insights. Handles multi-variable tabular analysis.
+>
+> **Tech:** `Python` `Pandas` `NumPy` `Data Visualization`
+>
+> 🔗 [View Repository →](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
+
+> ### Real-Time Web Scraper
+> Autonomous bot that scrapes live news headlines from BBC and other sources. Implements multi-tag HTML extraction, deduplication heuristics, and resilient network exception handling.
+>
+> **Tech:** `Python` `BeautifulSoup` `Requests` `Regex`
+>
+> 🔗 [View Repository →](https://github.com/Manshi-Chauhan/web_scraping)
+
+</details>
+
+<details>
+<summary><b>🐍 Python Mini-Projects & Utilities</b></summary>
+<br>
+
+| Project | What It Does | Repo |
+|:--------|:-------------|:----:|
+| 🌈 Rainbow Spiral Art | Algorithmic geometry with Python Turtle | [→](https://github.com/Manshi-Chauhan/Created-a-Rainbow-Spiral-Art-Generator-using-Python-Turtle) |
+| 🔑 Password Generator | Cryptographically secure credential builder | [→](https://github.com/Manshi-Chauhan/python-mini-project) |
+| 💱 Currency Converter | Real-time exchange rate calculator | [→](https://github.com/Manshi-Chauhan/currency_convertor) |
+| 🎮 Quiz Game Engine | Upskill platform with dynamic scoring | [→](https://github.com/Manshi-Chauhan/upskill_project) |
+| ✅ To-Do App | Task manager with file persistence | [→](https://github.com/Manshi-Chauhan/toDoApp) |
+| 📄 Word Count Tool | File processing & text analytics | [→](https://github.com/Manshi-Chauhan/file_opration.py) |
+| 🤖 AI Skill Exchange | Peer-to-peer AI workflow sharing platform | [→](https://github.com/Manshi-Chauhan/ai-skill-exchange) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manshi-Chauhan&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0&ring_color=6366f1" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-Chauhan&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manshi-Chauhan&theme=midnight-purple&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a78bfa&sideLabels=818cf8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manshi-Chauhan&theme=onestar&column=7&margin-w=8&no-frame=true&no-bg=true" />
+</div>
+
+---
+
+## 🎯 2026 Focus Areas
 
 <div align="center">
 
-| Project | Stack | Highlights | Link |
-|:--------|:------|:-----------|:----:|
-| 🇮🇳 **OIML NAWI Metrology Tester** | `Python` `Docker` `TypeScript` `Shell` | SIH 2026 · Ed25519 Crypto · ISO PDF/A-3 · DCC XML · Multi-platform | [→](https://github.com/Manshi-Chauhan/OIML-NAWI-METROLOGY-TESTER-R-76) |
-| 🔐 **Encryption & Decryption Tool** | `Python` `Tkinter` `Fernet` | Symmetric AES-CBC · GUI Desktop App · Auto Key Management | [→](https://github.com/Manshi-Chauhan/Encryption-and-Decryption-Tool) |
-| 📊 **Road Accident Analyzer** | `Python` `Pandas` `NumPy` | Multi-variable Risk Analytics · Statistical Insights · Safety Modeling | [→](https://github.com/Manshi-Chauhan/Road_accident_analyzer) |
-| 🌐 **Real-Time Web Scraper** | `Python` `BeautifulSoup` `Requests` | Live News Extraction · Dedup · Error-resilient Parsing | [→](https://github.com/Manshi-Chauhan/web_scraping) |
-| 🤖 **AI Skill Exchange** | `Python` | Peer-to-Peer AI Workflow Collaboration Platform | [→](https://github.com/Manshi-Chauhan/ai-skill-exchange) |
-| 🌈 **Rainbow Spiral Art Generator** | `Python` `Turtle` | Algorithmic Geometric Art · Computational Creativity | [→](https://github.com/Manshi-Chauhan/Created-a-Rainbow-Spiral-Art-Generator-using-Python-Turtle) |
-| 🔑 **Password Generator** | `Python` | Cryptographically Secure Credentials · Configurable Rules | [→](https://github.com/Manshi-Chauhan/python-mini-project) |
-| 💱 **Currency Converter** | `Python` | Real-Time Exchange Rate Computation Utility | [→](https://github.com/Manshi-Chauhan/currency_convertor) |
-| 🎮 **Interactive Quiz Engine** | `Python` | Upskill platform with dynamic scoring & performance analysis | [→](https://github.com/Manshi-Chauhan/upskill_project) |
-| ✅ **To-Do App** | `Python` | Task Manager with persistent file I/O | [→](https://github.com/Manshi-Chauhan/toDoApp) |
+```
+🤖  Machine Learning & Neural Nets     ████████░░░░   65%  → Active Study
+🔐  Applied Cryptography               ██████████░░   85%  → Near Mastery  
+📊  Data Science & EDA                 ███████░░░░░   60%  → Growing
+☕  Java Advanced (Spring, DSA)         ██████░░░░░░   55%  → In Progress
+🌐  Web Dev Fundamentals               ████████░░░░   65%  → Strengthening
+🐳  Docker & Containerization          █████░░░░░░░   45%  → Exploring
+☁️  Cloud Basics (AWS / GCP)           ████░░░░░░░░   30%  → Up Next
+🔬  ZK-Proofs & Advanced Crypto        ██░░░░░░░░░░   20%  → Future Goal
+```
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manshi-Chauhan&show_icons=true&include_all_commits=true&count_private=true&title_color=FFA500&text_color=ffffff&icon_color=FF4500&bg_color=0D1117&border_color=FF8C00&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-Chauhan&layout=compact&langs_count=8&title_color=FFA500&text_color=ffffff&icon_color=FF4500&bg_color=0D1117&border_color=FF8C00"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manshi-Chauhan&theme=monokai&row=1&column=7&margin-w=10&no-frame=true" alt="Trophies"/>
-</div>
-
----
-
-## 🗺️ Learning Roadmap 2026
-
-```
-✅ Python OOP & Design Patterns         ██████████ 100%
-✅ Fernet / Symmetric Cryptography      ██████████ 100%
-✅ Web Scraping (BeautifulSoup)         ██████████ 100%
-✅ Smart India Hackathon (SIH 2026)     ██████████ 100%
-🔄 Data Science & ML Fundamentals      ███████░░░  70%
-🔄 Java Advanced (Spring, DSA)          ██████░░░░  60%
-🔄 Databases (MySQL, MongoDB)           ██████░░░░  60%
-🔜 Deep Learning / Neural Networks      ████░░░░░░  40%
-🔜 Cloud Platforms (AWS / GCP Basics)   ███░░░░░░░  30%
-🔜 Zero-Knowledge Proofs / zkSNARKs     ██░░░░░░░░  20%
-```
-
----
-
-## 🌟 What Drives Me
+## 💬 A Bit More About Me
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   "Ambitious Undergrad | B.Tech'28                                ║
-║    Pursuing Excellence in CS & Specialized AIML                   ║
-║    AI & ML Enthusiast | Python, Java, C & C++                     ║
-║    Exploring Data Science | Seeking Industry Exposure"            ║
-║                                                                   ║
-║                              — Manshi Chauhan                     ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-| 🛡️ Defensive Thinking | 🏗️ Builder Mindset | 🔬 Research Focus | 🤝 Collaborative |
-|:---:|:---:|:---:|:---:|
-| Always secure-by-design | From idea to working product | Dive deep into the "why" | 500+ LinkedIn Connections |
+| 🎓 | Currently pursuing **B.Tech CSE with Specialization in AI & ML** at AKTU Lucknow |
+|:--:|:--|
+| 🏆 | Participated in **Smart India Hackathon 2026** — built a full metrological testing suite |
+| 🔐 | Fascinated by **cryptography** — the math that keeps data safe |
+| 📊 | Love **data analysis** — turning messy numbers into clear stories |
+| 💡 | Languages in my arsenal: **Python · Java · C · C++** |
+| 🤝 | **500+ LinkedIn connections** — believer in the power of networks |
+| 🌱 | Philosophy: *Build it, break it, learn from it, build it better* |
+| 📍 | Based in **Kanpur, UP, India 🇮🇳** — always open to remote collabs |
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Reach Out
 
 <div align="center">
+<br>
 
-```
-Manshi Chauhan
-├── 📍  Kanpur, Uttar Pradesh, India
-├── 🎓  B.Tech (AIML) · AKTU Lucknow · Batch 2028
-├── 📧  manshichauhan923@gmail.com
-├── 💼  linkedin.com/in/manshi-chauhan
-├── 🐙  github.com/Manshi-Chauhan
-└── 🟢  Open to: Internships · Research · Collaborations
-```
+**I'm actively looking for internships, project collaborations, and research opportunities!**
+
+<br>
+
+[![Email](https://img.shields.io/badge/manshichauhan923%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manshi-chauhan)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Browse_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manshi-Chauhan?tab=repositories)
+
+<br>
+
+*Open to: Internships · Research Partnerships · Open Source Collaboration · Hackathon Teams*
 
 </div>
 
+---
+
 <div align="center">
-  <a href="mailto:manshichauhan923@gmail.com"><img src="https://img.shields.io/badge/📧_Send_Email-FF4500?style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Manshi-Chauhan&color=818cf8&style=flat-square&label=Profile+Visits" />
   &nbsp;
-  <a href="https://linkedin.com/in/manshi-chauhan"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/Manshi-Chauhan?tab=repositories"><img src="https://img.shields.io/badge/🗂️_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manshi-Chauhan&color=FF8C00&style=flat-square&label=Profile+Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Manshi-Chauhan?label=Followers&style=flat-square&color=FF8C00&logo=github" />
+  <img src="https://img.shields.io/github/followers/Manshi-Chauhan?label=GitHub+Followers&color=818cf8&style=flat-square" />
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:FF8C00&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <i>"Ambitious. Curious. Building the future — one line of code at a time."</i>
+  <br><br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn"/>
 </div>
