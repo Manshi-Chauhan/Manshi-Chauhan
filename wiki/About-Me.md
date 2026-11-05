@@ -2,22 +2,25 @@
 
 ## Introduction
 
-I'm **Manshi Chauhan**, a **Software Engineer and Researcher** operating at the convergence of **Python Development**, **Cybersecurity & Cryptography**, and **Data Analytics**. I specialize in creating intuitive desktop software, defensive cryptography tools, and data extraction engines that solve practical, high-impact problems.
+I'm **Manshi Chauhan**, an ambitious **B.Tech (Class of 2028)** undergraduate student at **Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow**, based in **Kanpur, Uttar Pradesh, India**. I specialize in **Computer Science & Specialized Artificial Intelligence and Machine Learning (AIML)**, with active research and engineering interests spanning **Python & Java Development**, **Cybersecurity & Cryptography**, and **Data Science**.
 
 ## 📊 Professional Profile
 
-- **Title:** Software Engineer | Cybersecurity & Cryptography Researcher | Data & AI Explorer
-- **Education:** B.Tech Student
+- **Title:** Computer Science & AIML Undergrad | Software Engineer | Cybersecurity Researcher
+- **Degree:** B.Tech (2024 - 2028), Specialized AIML
+- **University:** Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+- **Location:** Kanpur, Uttar Pradesh, India
+- **Status:** Open to Work (On-site · Hybrid · Remote)
 - **Flagship Initiative:** Smart India Hackathon (SIH 2026) Automated NAWI Testing Suite
-- **Focus:** Developing robust Python architectures, symmetric and asymmetric cryptographic tools, and data-driven intelligence
+- **Focus:** Developing robust Python/Java architectures, symmetric and asymmetric cryptographic tools, and data-driven intelligence
 - **Vision:** Engineering secure, autonomous, and privacy-respecting systems that scale gracefully
 
 ## 🚀 What I Do
 
-### Python & Software Engineering
-- Architect clean, modular Python applications following PEP 8 conventions
+### Computer Science & Software Engineering
+- Architect clean, modular applications in **Python**, **Java**, **C**, and **C++**
 - Design interactive graphical user interfaces (GUIs) using Tkinter
-- Build command-line utilities, file-processing tools, and educational engines
+- Build command-line utilities, file-processing tools, and algorithmic systems
 - Write maintainable, testable code with robust error boundaries
 
 ### Cybersecurity & Cryptography
@@ -26,7 +29,7 @@ I'm **Manshi Chauhan**, a **Software Engineer and Researcher** operating at the 
 - Design defensive software that safeguards sensitive records and user data
 - Advocate for privacy-centric development and secure coding standards
 
-### Data Extraction & Analytics
+### Data Extraction & Data Science
 - Develop automated web scraping bots utilizing BeautifulSoup and Requests
 - Parse and filter live unstructured web data into structured formats
 - Conduct exploratory data analysis to extract insights from datasets (e.g. road accident analysis)
@@ -34,19 +37,19 @@ I'm **Manshi Chauhan**, a **Software Engineer and Researcher** operating at the 
 
 ## 💡 Core Interests
 
+- **Artificial Intelligence & Machine Learning:** Neural models, autonomous decision logic, and intelligent data systems
 - **Applied Cryptography:** Symmetric key encryption, key derivation, and digital signatures
-- **Data Intelligence:** Web scraping, data transformation, and statistical analysis
-- **Python Systems:** High-performance scripting, GUI design, and algorithmic problem-solving
+- **Data Science:** Web scraping, exploratory data analysis, and statistical evaluation
 - **National Innovations:** Contributing to Smart India Hackathon solutions and metrology automation
 - **Open Source:** Developing accessible, well-documented tools for developers and students
 
 ## 🎯 Goals
 
-1. Advance state-of-the-art security practices in open-source Python applications
-2. Engineer intelligent, privacy-first software solutions that run seamlessly on edge devices
-3. Expand contributions to national technical challenges and SIH innovations
-4. Publish comprehensive technical documentation and educational resources for emerging engineers
-5. Build an impactful portfolio of open-source security and analytical tools
+1. Gain meaningful industry exposure and software engineering internships
+2. Advance state-of-the-art security practices in open-source Python and Java applications
+3. Engineer intelligent, privacy-first software solutions that run seamlessly on edge devices
+4. Expand contributions to national technical challenges and SIH innovations
+5. Publish comprehensive technical documentation and educational resources for emerging engineers
 
 ## 🤝 Working Style
 

@@ -3,11 +3,15 @@
 </div>
 
 <div align="center">
-  <h3>⚡ <font color="#FFA500">Software Engineer</font> | 🛡️ <font color="#FF4500">Cybersecurity & Cryptography</font> | 📊 <font color="#FF7F50">Data & AI Explorer</font></h3>
-  <p><i>Building secure, intelligent, and data-driven software solutions.</i></p>
+  <img src="https://raw.githubusercontent.com/Manshi-Chauhan/Manshi-Chauhan/main/assets/profile.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #FF8C00; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Manshi Chauhan" />
+  <br><br>
+  <h3>⚡ <font color="#FFA500">Computer Science & Specialized AIML (B.Tech '28)</font> | 🛡️ <font color="#FF4500">Cybersecurity & Cryptography</font> | 📊 <font color="#FF7F50">Data Science Enthusiast</font></h3>
+  <p><b>Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow</b> • Kanpur, Uttar Pradesh, India</p>
+  <p><i>Building secure, intelligent, and scalable software solutions. Seeking industry exposure & innovative collaborations.</i></p>
 </div>
 
 <div align="center">
+  <a href="https://img.shields.io/badge/Status-Open_To_Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white"><img src="https://img.shields.io/badge/Status-Open_To_Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
   <a href="mailto:manshichauhan923@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/manshi-chauhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Manshi-Chauhan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -38,7 +42,9 @@
 ---
 
 ## 🚀 <font color="#FF8C00">About Me</font>
-I am a passionate **Software Engineer and Researcher** operating at the intersection of **Python Development**, **Cybersecurity & Cryptography**, and **Data Analytics**. I specialize in developing cryptographic security tools, automated web intelligence systems, and data-driven analytical platforms. My work focuses on creating privacy-first, resilient applications that bridge secure computational techniques with real-world problem solving.
+I am an ambitious **B.Tech (Class of 2028)** undergraduate at **Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow**, operating at the convergence of **Computer Science**, **Artificial Intelligence & Machine Learning (AIML)**, and **Cybersecurity & Cryptography**. 
+
+I specialize in building modular Python applications, cryptographic desktop utilities using Fernet, and resilient data extraction engines. Passionate about solving real-world challenges through clean engineering, I actively contribute to national technical challenges like the **Smart India Hackathon (SIH 2026)** and continuously explore cutting-edge concepts in Data Science and AI.
 
 **💡 Read more in <a href="https://github.com/Manshi-Chauhan/Manshi-Chauhan/wiki/About-Me"><font color="#FFA500">About Me Wiki</font></a>**
 
@@ -104,9 +110,11 @@ I am a passionate **Software Engineer and Researcher** operating at the intersec
 ## 🛠️ <font color="#FF8C00">Tech Stack & Skills</font>
 
 <div align="center">
-  <b>Languages:</b><br>
+  <b>Programming Languages:</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -118,7 +126,7 @@ I am a passionate **Software Engineer and Researcher** operating at the intersec
   <img src="https://img.shields.io/badge/Security_Auditing-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br><br>
-  <b>Data Analytics & Web Scraping:</b><br>
+  <b>Data Science & Web Intelligence:</b><br>
   <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -157,13 +165,13 @@ Engineering <b>cryptographic security tools</b> and automated data protection sy
 </p>
 
 ### 🐍 <font color="#FF4500">Python Engineering & Desktop Applications</font>
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tkinter-GUI-FF8C00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Clean-Architecture-4EAA25?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Tkinter-GUI-FF8C00?style=for-the-badge" />
 <p align="center">
-Developing robust, modular <b>Python applications</b> with graphical interfaces (Tkinter) and algorithmic logic. Implementing binary and structured file handling, defensive exception management, and automated test-driven workflows.
+Developing robust, modular <b>desktop applications</b> with graphical interfaces (Tkinter) and algorithmic logic in Python and Java. Implementing binary and structured file handling, defensive exception management, and automated test-driven workflows.
 </p>
 
 ### 📊 <font color="#FF7F50">Data Extraction & Analytical Modeling</font>
-<img src="https://img.shields.io/badge/Web-Scraping-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/BeautifulSoup-Parsing-2CA5E0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data-Analytics-150458?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web-Scraping-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/BeautifulSoup-Parsing-2CA5E0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data-Science-150458?style=for-the-badge" />
 <p align="center">
 Building automated <b>web scrapers</b> and data analytics pipelines. Skilled at parsing unstructured HTML DOM structures, handling asynchronous network requests, and performing exploratory data analysis on safety and metrology datasets.
 </p>
@@ -180,8 +188,8 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 
 | Knowledge Domain | Documentation Scope |
 | :--- | :--- |
-| **🏆 Professional Journey** | Career milestones, educational background, and core mission |
-| **🛡️ Technical Specializations** | In-depth breakdown of Python, Cybersecurity, and Data skills |
+| **🏆 Professional Journey** | Career milestones, educational background at AKTU Lucknow, and core mission |
+| **🛡️ Technical Specializations** | In-depth breakdown of Python, Java, C/C++, Cybersecurity, and Data skills |
 | **🚀 Project Architecture** | Comprehensive technical deep-dives into all developed ecosystems |
 | **📚 Learning Frameworks** | Curated educational resources and advanced technical materials |
 | **⚙️ Tech Stack Analysis** | Detailed analysis of tools, languages, and infrastructure preferences |
@@ -215,7 +223,7 @@ This repository serves as a centralized **Knowledge Repository**, hosting compre
 I am always open to discussing technical challenges, software engineering initiatives, and innovative partnerships. Whether you are looking to collaborate on a project or exchange technical insights, feel free to reach out.
 
 - **🛡️ Cybersecurity & Cryptography:** Collaborating on secure applications, data encryption tools, and defensive software design.
-- **🐍 Python & Open Source:** Contributing to open-source developer tooling, CLI utilities, and automation frameworks.
+- **🐍 Python, Java & Open Source:** Contributing to open-source developer tooling, CLI utilities, and automation frameworks.
 - **📊 Data Intelligence:** Developing automated web scrapers, data pipelines, and analytical research projects.
 - **🎯 Academic & Hackathon Collaboration:** Partnering on high-impact initiatives like the Smart India Hackathon (SIH) and engineering challenges.
 

@@ -2,13 +2,16 @@
 
 ## 🎓 Education
 
-### B.Tech Degree Program
-- **Status:** Active Undergraduate Student
+### B.Tech in Computer Science & Engineering (Specialized AIML)
+**Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow**
+- **Batch:** Class of 2028 (2024 - 2028)
+- **Location:** Kanpur, Uttar Pradesh, India
 - **Focus Areas:**
-  - Software Engineering & Data Structures
+  - Artificial Intelligence & Machine Learning Architectures
+  - Data Structures, Algorithms, and OOP in Python, Java, and C++
   - Applied Cryptography & Information Security
-  - Data Extraction & Analytical Computation
-  - National Innovations (Smart India Hackathon 2026)
+  - Data Extraction, Web Intelligence, and Statistical Computation
+  - National Technical Competitions (Smart India Hackathon 2026)
 
 ---
 
@@ -53,7 +56,7 @@
 
 ## 🏆 Key Competencies
 
-✅ **Python Desktop Engineering:** Modular Tkinter interfaces with clear separation of concerns  
+✅ **Polyglot Programming:** Clean implementations in Python, Java, C, and C++  
 ✅ **Security Mindset:** Defensive error handling, key safety, and integrity checks  
 ✅ **Rapid Prototyping:** Taking an idea from specification to working software in hackathons  
 ✅ **Rigorous Documentation:** Comprehensive READMEs, guides, and centralized knowledge repositories  

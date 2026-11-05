@@ -10,10 +10,15 @@
   - Data analysis and manipulation (Pandas, NumPy)
   - Automation scripts and utility engineering
 
-- **C** ⭐⭐⭐⭐
+- **Java** ⭐⭐⭐⭐
+  - Object-Oriented Programming (OOP) paradigms
+  - Data structures and algorithms
+  - Modular software architecture
+
+- **C & C++** ⭐⭐⭐⭐
   - Systems programming fundamentals
-  - Memory management and data structures
-  - Low-level algorithm implementation
+  - Memory management, pointers, and object modeling
+  - Low-level algorithm optimization
 
 - **SQL** ⭐⭐⭐⭐
   - Relational database schema design
@@ -61,7 +66,7 @@
 ## Development Tools & Environments
 
 - **Version Control:** Git, GitHub, branching workflows
-- **IDEs & Editors:** Visual Studio Code, PyCharm
+- **IDEs & Editors:** Visual Studio Code, IntelliJ IDEA, PyCharm
 - **Operating Systems:** Windows, Linux (Ubuntu, Debian)
 - **Quality & Linting:** PEP 8, Ruff, Black, Flake8
 - **Documentation:** Markdown, Technical writeups, GitHub Wikis
