@@ -1,23 +1,13 @@
 # 👋 Hi, I'm Manshi Chauhan!
 
-<div align="center">
-
 ### 💻 Python Developer | Web Developer | AI & Technical Content Writer
-**Kanpur, Uttar Pradesh, India 🇮🇳 &nbsp;|&nbsp; B.Tech CSE (AI & ML) • 2024–2028**
-
-<br>
+📍 **Kanpur, Uttar Pradesh, India 🇮🇳 &nbsp;|&nbsp; 🎓 B.Tech CSE (AI & ML) • 2024–2028**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manshi-chauhan-673541389/)
-&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manshi-Chauhan?tab=repositories)
 
-<br>
-
 *I am a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning who enjoys building practical applications, solving programming problems, and exploring new technologies. Open to internships, collaborations, and learning opportunities.*
-
-</div>
 
 ---
 
@@ -55,15 +45,40 @@
 
 ## 🛠️ Technical Skills
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| 💻 **Programming Languages** | `Python` &nbsp; `Java` &nbsp; `C` &nbsp; `C++` &nbsp; `SQL` |
-| 🌐 **Web Technologies** | `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` |
-| 🗄️ **Databases** | `MySQL` &nbsp; `SQLite` &nbsp; `DBMS` |
-| 🧠 **AI, LLMs & Writing** | `Prompt Engineering` &nbsp; `LLM Concepts` &nbsp; `Technical Writing` &nbsp; `Research` |
-| 🐍 **Python Libraries** | `Pandas` &nbsp; `NumPy` &nbsp; `FastAPI` &nbsp; `Tkinter` &nbsp; `CustomTkinter` |
-| 🔧 **Developer Tools** | `Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Microsoft Excel` |
-| 🤝 **Professional Skills** | `Problem Solving` &nbsp; `Communication` &nbsp; `Teamwork` &nbsp; `Time Management` |
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧠 AI, LLMs & Technical Writing
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Concepts](https://img.shields.io/badge/LLM_Concepts-412991?style=for-the-badge&logo=huggingface&logoColor=white)
+![Technical Writing](https://img.shields.io/badge/Technical_Writing-20B2AA?style=for-the-badge&logo=readme&logoColor=white)
+![Research](https://img.shields.io/badge/Technical_Research-4682B4?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+### 🐍 Python Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-6366f1?style=for-the-badge&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-7c3aed?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -71,36 +86,36 @@
 
 ### 🎮 1. Student Quiz Game
 > An interactive desktop quiz application featuring student authentication, dynamic scoreboards, and progressive level unlocking.
-- **Features:** Registration & login, personal dashboard with scores/credits, sequential level unlocking, real-time leaderboard.
+- **Key Features:** Student registration & login, personal dashboard with scores/credits, sequential level unlocking, real-time leaderboard.
 - **Tech Stack:** `Python` `Tkinter` `CustomTkinter` `MySQL` `Pandas`
-- **Link:** [View on GitHub →](https://github.com/Manshi-Chauhan/upskill_project)
+- **Repository:** [upskill_project →](https://github.com/Manshi-Chauhan/upskill_project)
 
 ### 🏆 2. Legal Metrology Workbench for NAWI — SIH 2026
 > Software solution developed for the Smart India Hackathon generating standardized OIML R-76 test reports for Non-Automatic Weighing Instruments.
-- **Features:** OIML R-76 test data validation, structured XML & PDF/A-3 report generation, cryptographic report verification.
+- **Key Features:** OIML R-76 test data validation, structured XML & PDF/A-3 report generation, cryptographic report verification.
 - **Tech Stack:** `Python` `FastAPI` `SQLite` `Pydantic` `XML` `PDF/A-3`
-- **Link:** [View on GitHub →](https://github.com/Manshi-Chauhan/OIML-NAWI-METROLOGY-TESTER-R-76)
+- **Repository:** [OIML-NAWI-METROLOGY-TESTER-R-76 →](https://github.com/Manshi-Chauhan/OIML-NAWI-METROLOGY-TESTER-R-76)
 
 ### 📊 3. Road Accident Analysis Dashboard
 > Comprehensive data analytics project uncovering accident patterns across weather conditions, road types, and timelines.
-- **Features:** In-depth data cleaning, pattern/trend identification, visual interactive dashboards for traffic safety insights.
+- **Key Features:** In-depth data cleaning, pattern/trend identification, visual interactive dashboards for traffic safety insights.
 - **Tech Stack:** `Microsoft Excel` `Data Analysis` `Data Visualization`
-- **Link:** [View on GitHub →](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
+- **Repository:** [Road_accident_analyzer →](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
 
 ### 📈 4. Python Data Analysis Workflows
 > Practical exploratory data analysis (EDA) workflows transforming raw datasets into actionable insights.
-- **Features:** Handling missing data, correlation analysis, statistical feature extraction, clean data visualization.
+- **Key Features:** Handling missing data, correlation analysis, statistical feature extraction, clean data visualization.
 - **Tech Stack:** `Python` `Pandas` `NumPy` `Data Science`
-- **Link:** [View on GitHub →](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
+- **Repository:** [Road_accident_analyzer →](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
 
 ### 🔐 5. Python Encryption & Decryption Tool
 > Desktop cryptography application enabling users to securely encrypt and decrypt sensitive text and files.
-- **Features:** Fernet-based symmetric AES encryption, automatic key generation and management, clean graphical user interface.
+- **Key Features:** Fernet-based symmetric AES encryption, automatic key generation and management, clean graphical user interface.
 - **Tech Stack:** `Python` `Fernet` `Tkinter` `Cryptography`
-- **Link:** [View on GitHub →](https://github.com/Manshi-Chauhan/Encryption-and-Decryption-Tool)
+- **Repository:** [Encryption-and-Decryption-Tool →](https://github.com/Manshi-Chauhan/Encryption-and-Decryption-Tool)
 
 <details>
-<summary><b>📂 More Open-Source Repositories (Click to expand)</b></summary>
+<summary><b>📂 More Open-Source Repositories (Click to view)</b></summary>
 <br>
 
 | Project | Description | Stack | Link |
@@ -157,7 +172,9 @@ I am always open to discussing new opportunities, open-source collaborations, or
 
 <br>
 
-<div align="center">
+---
+
+<p align="center">
   <b>⭐ Thanks for visiting my GitHub profile!</b><br>
   <i>Keep Learning | Keep Building | Keep Growing 🚀</i>
-</div>
+</p>
