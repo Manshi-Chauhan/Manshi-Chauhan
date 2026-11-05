@@ -175,19 +175,22 @@ currently:
 
 ---
 
-## 📊 GitHub Stats
+## 📌 By The Numbers
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manshi-Chauhan&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=e2e8f0&ring_color=6366f1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-Chauhan&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" />
+
+| 🗂️ Repositories | ⭐ Stars Earned | 🤝 LinkedIn | 🏆 Hackathons |
+|:---:|:---:|:---:|:---:|
+| **15+** Public Repos | **34** Stars Received | **500+** Connections | **SIH 2026** Participant |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manshi-Chauhan&theme=midnight-purple&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a78bfa&sideLabels=818cf8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" />
-</div>
+> **📢 Stats cards grow as your GitHub activity grows!**
+> Every new commit, PR, and repo pushes these numbers higher.
+> Keep building — your contribution graph is filling up 🚀
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manshi-Chauhan&theme=onestar&column=7&margin-w=8&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-Chauhan&layout=donut&langs_count=5&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" />
 </div>
 
 ---
