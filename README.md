@@ -35,26 +35,35 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 ### 👩‍💻 `$ whoami`
 
-### **Manshi Chauhan**
-**B.Tech CSE (Artificial Intelligence & Machine Learning) • 2024–2028**
+## **Manshi Chauhan**
+**B.Tech in Computer Science & Engineering (AIML) • 2024–2028**
 
-- 🎓 **Institution:** Krishna Group of Institutions (AKTU)
-- 📊 **Academic Standing:** **SGPA: 8.3 / 10** (4th Semester)
+- 🎓 **University & College:** Krishna Group of Institutions (AKTU)
+- 📊 **Academic Standing:** **SGPA: 8.3 / 10** (4th Semester) &nbsp;|&nbsp; Class XII: **83%**
 - 📍 **Location:** Kanpur, Uttar Pradesh, India 🇮🇳
-- 💼 **Experience:** Python Developer Intern @ **upSkill** (2026)
-- 🟢 **Current Status:** Open to Internships, Projects & Collabs
-- 🎯 **Specialization:** Python Dev • Web Dev • AI/ML • Technical Writing
-
-</td>
-<td width="38%" valign="top" align="center">
+- 💼 **Industry Experience:** Python Developer Intern @ **upSkill** (2026)
+- 🏆 **National Competitions:** Smart India Hackathon (**SIH 2026**) Participant
+- 🟢 **Availability:** Open to Summer Internships, Remote Roles & Collabs
+- 🎯 **Primary Focus:** Python Backend • Full-Stack Web • AI/ML Engineering
+- ✍️ **Special Interest:** Technical Content Writing & Prompt Engineering
+- 📚 **Relevant Coursework:** DSA, Machine Learning, Deep Learning, DBMS, OS
 
 <br>
 
-<img src="./assets/profile.jpg" width="180" alt="Manshi Chauhan" />
+> *"Building practical software, solving tough programming challenges, and turning complex AI concepts into accessible solutions."*
+
+I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning (AIML)**. I enjoy building practical desktop and web applications, writing clean automation workflows, and analyzing real-world datasets.
+
+</td>
+<td width="36%" valign="top" align="center">
+
+<br>
+
+<img src="./assets/profile.jpg" width="200" alt="Manshi Chauhan" />
 
 <br><br>
 
@@ -65,18 +74,14 @@
 <a href="mailto:manshichauhan923@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+<br><br>
+<a href="https://github.com/Manshi-Chauhan?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </td>
 </tr>
 </table>
-
-<br>
-
-> ### *"Building practical software, solving tough programming challenges, and turning complex AI concepts into accessible solutions."*
-
-I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning (AIML)** at **Krishna Group of Institutions, AKTU** (Batch of 2024–2028) with a strong academic standing (**SGPA: 8.3 / 10**). 
-
-As a dedicated **Python Developer** and **AI Enthusiast**, I focus on building practical desktop and web applications, writing clean automation workflows, and analyzing real-world datasets. I am also deeply passionate about **Technical Content Writing**, specializing in explaining cutting-edge LLMs, prompt engineering techniques, and machine learning architectures in clear, engaging, and reader-friendly language.
 
 ---
 
