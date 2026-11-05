@@ -33,38 +33,50 @@
 
 ## 👩‍💻 About Me
 
-> [!NOTE]
-> ### 🎯 Core Mission & Vision
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
+### 👩‍💻 `$ whoami`
+
+### **Manshi Chauhan**
+**B.Tech CSE (Artificial Intelligence & Machine Learning) • 2024–2028**
+
+- 🎓 **Institution:** Krishna Group of Institutions (AKTU)
+- 📊 **Academic Standing:** **SGPA: 8.3 / 10** (4th Semester)
+- 📍 **Location:** Kanpur, Uttar Pradesh, India 🇮🇳
+- 💼 **Experience:** Python Developer Intern @ **upSkill** (2026)
+- 🟢 **Current Status:** Open to Internships, Projects & Collabs
+- 🎯 **Specialization:** Python Dev • Web Dev • AI/ML • Technical Writing
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<br>
+
+<img src="./assets/profile.jpg" width="180" alt="Manshi Chauhan" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/manshi-chauhan-673541389/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<br><br>
+<a href="mailto:manshichauhan923@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 > ### *"Building practical software, solving tough programming challenges, and turning complex AI concepts into accessible solutions."*
 
-<br>
+I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning (AIML)** at **Krishna Group of Institutions, AKTU** (Batch of 2024–2028) with a strong academic standing (**SGPA: 8.3 / 10**). 
 
-![Degree](https://img.shields.io/badge/Degree-B.Tech_CSE_(AIML)-818cf8?style=for-the-badge)
-![College](https://img.shields.io/badge/College-Krishna_Group_of_Institutions-6366f1?style=for-the-badge)
-![SGPA](https://img.shields.io/badge/Academics-8.3_%2F_10_SGPA-22c55e?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-upSkill_Intern-f59e0b?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open_to_Internships-22c55e?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Kanpur,_UP,_India-0ea5e9?style=for-the-badge)
-
-<br>
-
-### 🎓 Who I Am
-### I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning (AIML)** at **Krishna Group of Institutions, AKTU** (Batch of 2024–2028) with a strong academic standing (**SGPA: 8.3 / 10**).
-
-### 💡 What I Do
-### As a dedicated **Python Developer** and **AI Enthusiast**, I focus on building practical desktop and web applications, writing clean automation workflows, and analyzing real-world datasets. I am also deeply passionate about **Technical Content Writing**, specializing in explaining cutting-edge LLMs, prompt engineering techniques, and machine learning architectures in clear, engaging, and reader-friendly language.
-
-<br>
-
-```diff
-+ 🎓 B.Tech CSE (AIML) @ Krishna Group of Institutions (2024–2028) | SGPA: 8.3 / 10
-+ 🐍 Python Developer Intern @ upSkill (2026) — OOP, Automation & Security
-+ 🏆 SIH 2026 National Hackathon Participant — NAWI Metrology Workbench
-+ 🧠 Certified in Customized LLMs (Columbia University) & AI Agents (upSkill)
-+ 🟢 Open to Summer Internships, Remote Roles & Technical Writing Collaborations
-```
-
-<br>
+As a dedicated **Python Developer** and **AI Enthusiast**, I focus on building practical desktop and web applications, writing clean automation workflows, and analyzing real-world datasets. I am also deeply passionate about **Technical Content Writing**, specializing in explaining cutting-edge LLMs, prompt engineering techniques, and machine learning architectures in clear, engaging, and reader-friendly language.
 
 ---
 
