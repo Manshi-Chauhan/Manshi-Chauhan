@@ -22,44 +22,80 @@
 <!-- ABOUT ME + PROFILE PHOTO -->
 <table>
 <tr>
-<td width="60%">
+<td width="58%" valign="top">
 
 ## `$ whoami`
 
 ```yaml
-name     : Manshi Chauhan
-pronouns : She / Her
-degree   : B.Tech — Computer Science (Specialized AIML)
-year     : 2024 → 2028  (2nd Year)
-univ     : Dr. A.P.J. Abdul Kalam Technical University (AKTU)
-city     : Kanpur, Uttar Pradesh 🇮🇳
-linkedin : 500+ connections
+╔══════════════════════════════════════════════╗
+  IDENTITY
+  ─────────────────────────────────────────────
+  name       : Manshi Chauhan
+  pronouns   : She / Her
+  age        : 20 yrs old
 
-passion  :
-  - Turning data into decisions 📊
-  - Writing code that actually secures things 🔐
-  - Competing in national hackathons 🏆
-  - Making machines a little smarter every day 🤖
+  EDUCATION
+  ─────────────────────────────────────────────
+  degree     : B.Tech — CSE (Specialized AIML)
+  batch      : 2024 → 2028  [ 2nd Year ]
+  university : AKTU, Lucknow (Dr. A.P.J. Abdul Kalam)
+  location   : Kanpur, Uttar Pradesh 🇮🇳
 
-currently:
-  - 📖 Studying: ML algorithms & Java Advanced OOP
-  - 🛠️ Building: Data pipelines & encryption tools
-  - 🎯 Target: Industry internship in AI / Security
-  - 🌱 Exploring: Deep Learning & ZK Proofs
+  PROFESSIONAL
+  ─────────────────────────────────────────────
+  linkedin   : 500+ connections
+  status     : 🟢 Actively seeking internships
+  focus_areas: AI/ML · Cryptography · Data Science
+
+  PASSIONS
+  ─────────────────────────────────────────────
+  passion[0] : Turning raw data into decisions   📊
+  passion[1] : Writing code that secures things  🔐
+  passion[2] : Competing in national hackathons  🏆
+  passion[3] : Making machines smarter every day 🤖
+
+  RIGHT NOW
+  ─────────────────────────────────────────────
+  studying   : ML algorithms & Java Advanced OOP
+  building   : Encryption tools & data pipelines
+  target     : AI / Security industry internship
+  exploring  : Deep Learning & ZK Proofs
+  listening  : Lo-fi beats while debugging 🎵
+╚══════════════════════════════════════════════╝
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="42%" valign="top" align="center">
+
+<br>
 
 <img src="https://raw.githubusercontent.com/Manshi-Chauhan/Manshi-Chauhan/main/assets/profile.jpg"
-     width="190"
-     style="border-radius:16px; border: 3px solid #818cf8; box-shadow: 0 8px 32px #6366f144;"
-     alt="Manshi Chauhan"/>
+     width="200"
+     style="border-radius:20px; border: 3px solid #818cf8;"
+     alt="Manshi Chauhan — B.Tech AIML @ AKTU"/>
+
+<br>
+
+### Manshi Chauhan
+**`B.Tech AIML · AKTU Lucknow`**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manshi-chauhan)
+
+[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/Browse_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manshi-Chauhan?tab=repositories)
+
+<br>
+
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-Internships_·_Research-22c55e?style=flat-square"/>
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manshi-chauhan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
+> *"Ambitious. Curious.*
+> *Building the future —*
+> *one line of code at a time."*
 
 </td>
 </tr>
