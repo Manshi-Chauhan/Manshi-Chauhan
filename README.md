@@ -1,16 +1,16 @@
 <!-- ═══════════════════════════════ HEADER BANNER ═══════════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Python%20Developer%20%7C%202024%E2%80%932028&descAlign=50&descAlignY=76&descColor=a5b4fc" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20%26%20Technical%20Writer&descAlign=50&descAlignY=76&descColor=a5b4fc" />
 </p>
 
 <!-- ═══════════════════════════════ TYPING ANIMATION ═══════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=680&lines=Python+Developer+%F0%9F%90%8D;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Data+Science+%26+Analytics+%F0%9F%93%8A;SIH+2026+Hackathon+Participant+%F0%9F%87%AE%F0%9F%87%B3;Always+Building.+Always+Learning.+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Technical+Content+Writer+%E2%9C%8D%EF%B8%8F;Prompt+Engineering+%26+LLMs+%F0%9F%A7%A0;SIH+2026+Hackathon+Participant+%F0%9F%87%AE%F0%9F%87%B3;Always+Building.+Always+Learning.+%F0%9F%9A%80" />
 </div>
 
 <p align="center">
-  <b>B.Tech Computer Science & Engineering Student | AI & ML Enthusiast | Python Developer</b><br>
-  <i>I am a Computer Science undergraduate who enjoys building practical projects, solving programming problems, and exploring new technologies. I continuously work on improving my technical knowledge and developing real-world applications.</i>
+  <b>B.Tech CSE (AIML) Student | Python Developer | Web Developer | AI & Technical Content Writer</b><br>
+  <i>Passionate about building responsive, user-friendly web experiences, practical data-driven applications, and crafting clear, structured technical content on AI, machine learning, and emerging tech.</i>
 </p>
 
 <br>
@@ -35,30 +35,30 @@
   ────────────────────────────────────────────────
   degree     : B.Tech Computer Science & Engineering
   spec       : Artificial Intelligence & Machine Learning
+  college    : Krishna Group of Institutions (AKTU)
   batch      : 2024 → 2028
-  university : AKTU (Dr. A.P.J. Abdul Kalam Tech Univ)
+  academics  : SGPA 8.3 / 10
 
-  CAREER GOALS
+  EXPERIENCE
   ────────────────────────────────────────────────
-  roles      : Python Dev · AI/ML Engineer
-               Data Scientist · Backend Developer
-               Software Developer
+  internship : Python Developer Intern @ upSkill (2026)
   status     : 🟢 Open to internships & collabs
+  roles      : Python Dev · Web Dev · AI/ML Engineer
+               Technical Writer · Data Analyst
 
   PASSIONS
   ────────────────────────────────────────────────
-  [0]  Building practical, real-world applications 🛠️
-  [1]  Solving programming problems & algorithms   💡
-  [2]  Artificial Intelligence & Machine Learning   🤖
-  [3]  Data Science, EDA & insightful dashboards   📊
+  [0]  Building real-world web & python software   🛠️
+  [1]  Exploring LLMs, prompt engineering & AI     🤖
+  [2]  Writing clear & accessible technical guides ✍️
+  [3]  Data analysis, visualizations & dashboards  📊
 
   CURRENTLY LEARNING
   ────────────────────────────────────────────────
   dsa        : Data Structures & Algorithms
-  ai_ml      : Machine Learning & Deep Learning
-  python     : Advanced Python & Backend Architecture
-  database   : DBMS (MySQL · SQLite · SQL)
-  softdev    : Problem Solving & Clean Code
+  ai_llm     : LLM Architectures & Custom Agents
+  web_dev    : Modern Frontend & Backend Systems
+  database   : Advanced DBMS & Query Optimization
 
 ╚══════════════════════════════════════════════════╝
 ```
@@ -85,7 +85,7 @@
 
 <img src="https://img.shields.io/badge/📍_Kanpur,_UP,_India-6366f1?style=flat-square"/>
 <br>
-<img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-Internships_·_Collabs-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/🟢_Open_to_Work-Internships_·_Collabs-22c55e?style=flat-square"/>
 
 </td>
 </tr>
@@ -93,16 +93,13 @@
 
 ---
 
-<!-- ═══════════════════════════════ ABOUT ME ═══════════════════════════════ -->
-## 👩‍💻 About Me
+<!-- ═══════════════════════════════ EXPERIENCE ═══════════════════════════════ -->
+## 💼 Experience
 
-- 🎓 **Pursuing B.Tech** in Computer Science & Engineering with specialization in **Artificial Intelligence & Machine Learning (2024–2028)**.
-- 💡 **Passionate about** Software Development, Artificial Intelligence, and Machine Learning.
-- 🐍 **Hands-on with Python**, building practical, real-world tools and data pipelines.
-- 📊 **Data Enthusiast** interested in Data Cleaning, Exploratory Data Analysis (EDA), and Data Science.
-- 🗄️ **Working with Databases** including SQL, MySQL, and SQLite.
-- 🚀 **Continuously building projects** to strengthen programming, problem-solving, and system design skills.
-- 🤝 **Actively seeking** internships, open-source collaborations, and learning opportunities.
+### 🐍 **Python Developer Intern** — **upSkill** *(2026)*
+- 🔹 Engineered practical Python applications applying Object-Oriented Programming (OOP) concepts.
+- 🔹 Automated file handling and data processing workflows using custom Python scripts.
+- 🔹 Built encryption and decryption utilities while strengthening debugging and code optimization skills.
 
 ---
 
@@ -126,6 +123,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🧠 AI, LLMs & Content Writing
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Concepts](https://img.shields.io/badge/LLM_Concepts-412991?style=for-the-badge&logo=huggingface&logoColor=white)
+![Technical Writing](https://img.shields.io/badge/Technical_Writing-20B2AA?style=for-the-badge&logo=readme&logoColor=white)
+![Research](https://img.shields.io/badge/Technical_Research-4682B4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 #### 🐍 Python Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -185,7 +188,7 @@
 <summary><b>📊 3. Road Accident Analysis Dashboard</b></summary>
 <br>
 
-> Comprehensive data analytics project analyzing road accident records to detect high-risk patterns, contributing conditions, and demographic factors.
+> Comprehensive data analytics project analyzing road accident records across weather conditions, road types, days, and time frames to detect high-risk patterns.
 >
 > **Key Highlights:**
 > - In-depth dataset cleaning, filtering, and aggregation
@@ -198,7 +201,7 @@
 </details>
 
 <details open>
-<summary><b>📈 4. Python Data Analysis</b></summary>
+<summary><b>📈 4. Python Data Analysis Workflows</b></summary>
 <br>
 
 > Practical exploratory data analysis and data manipulation workflows utilizing Python's core data science stack.
@@ -209,7 +212,7 @@
 > - Extracting meaningful patterns, correlation insights, and trends from raw datasets
 >
 > **Technologies:** `Python` `Pandas` `NumPy` `Data Science`  
-> 🔗 **Repository:** [Road_accident_analyzer & Data Workflows](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
+> 🔗 **Repository:** [Road_accident_analyzer](https://github.com/Manshi-Chauhan/Road_accident_analyzer)
 
 </details>
 
@@ -245,14 +248,46 @@
 
 ---
 
+<!-- ═══════════════════════════════ CERTIFICATIONS & EDUCATION ═══════════════════════════════ -->
+## 📜 Certifications & Education
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education
+- 🏫 **B.Tech — CSE (AIML)** (2024–2028)  
+  *Krishna Group of Institutions, AKTU*  
+  **SGPA: 8.3 / 10** *(4th Sem)*  
+  *Coursework:* DSA, AI, ML, DBMS, OS
+- 🏫 **Class XII** (2023–2024)  
+  *SVM Inter College, Unnao (UP Board)*  
+  **Score: 83%**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏅 Certifications & Learning
+- 🧠 **Building Customized LLMs with OpenAI** — Columbia *(2026)*
+- 🤖 **Prompt Engineering & AI Agents** — upSkill *(2026)*
+- 🌐 **Exploring Artificial Intelligence** — IBM SkillsBuild *(2026)*
+- 💻 **C Programming** — Ritusha Consultants Pvt. Ltd. *(2024)*
+- 📊 **Data Analytics Virtual Experience** — Forage
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ═══════════════════════════════ REPOSITORY OVERVIEW ═══════════════════════════════ -->
 ## 📌 Repository Overview
 
 <div align="center">
 
-| 🗂️ Public Repos | ⭐ Stars Received | 🏆 Hackathon |
-|:---:|:---:|:---:|
-| **15+** | **34** | **SIH 2026 Participant** |
+| 🗂️ Public Repos | ⭐ Stars Received | 🏆 Hackathon | 💼 Experience |
+|:---:|:---:|:---:|:---:|
+| **15+** | **34** | **SIH 2026 Participant** | **Intern @ upSkill** |
 
 <br>
 
@@ -263,30 +298,29 @@
 ---
 
 <!-- ═══════════════════════════════ CAREER & LEARNING ROADMAP ═══════════════════════════════ -->
-## 🎯 Career Interests & Current Learning
+## 🎯 Career Focus & Learning Roadmap
 
 <div align="center">
 
-| 🎯 Target Career Paths | 📌 Focus Areas |
+| 🎯 Target Roles | 📌 Specialization |
 |:---|:---|
-| 🐍 **Python Developer** | Backend engineering, automation, APIs |
-| 💻 **Software Developer** | Clean architecture, problem solving, full lifecycle dev |
+| 🐍 **Python Developer** | Backend engineering, automation pipelines, scripting |
+| 🌐 **Web Developer** | Responsive interfaces, web apps (HTML · CSS · JS) |
+| ✍️ **AI & Technical Writer** | LLMs, prompt engineering, clear technical communication |
 | 🤖 **AI / ML Engineer** | Intelligent systems, data models, predictive algorithms |
-| 📊 **Data Scientist** | Statistical EDA, data pipelines, actionable insights |
-| 🌐 **Backend Developer** | RESTful APIs, database design, server-side logic |
+| 📊 **Data Analyst** | Dataset cleaning, statistical analysis, dashboard reporting |
 
 </div>
 
 <br>
 
 ```
-📚  DSA (Data Structures & Algorithms)  ███████░░░░░   55%  → Active Practice
-🤖  AI & Machine Learning               ████████░░░░   65%  → Active Study
-🐍  Advanced Python                     █████████░░░   75%  → Strong & Growing
-🗄️  Database Management (MySQL/SQLite)  ███████░░░░░   60%  → In Progress
-⚡  FastAPI & Backend Systems           ██████░░░░░░   50%  → Hands-on Projects
-🌐  Web Technologies (HTML · CSS · JS)  ████████░░░░   65%  → Strengthening
-💡  Problem Solving & Clean Code        ████████░░░░   70%  → Continuous Improvement
+🐍  Python & Automation Scripts        █████████░░░   80%  → Advanced / Practical Experience
+🧠  LLMs & Prompt Engineering          ████████░░░░   70%  → Columbia & upSkill Certified
+🌐  Web Dev (HTML · CSS · JS)          ████████░░░░   68%  → Active Building
+📚  DSA (Data Structures & Algorithms) ███████░░░░░   60%  → Continuous Practice
+🗄️  Databases (SQL · MySQL · SQLite)   ███████░░░░░   65%  → Practical Experience
+🤖  AI & Machine Learning              ████████░░░░   65%  → Active Study
 ```
 
 ---
