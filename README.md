@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════ TOP HEADER BANNER ═══════════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20%26%20Technical%20Writer&descAlign=50&descAlignY=76&descColor=a5b4fc" alt="Manshi Chauhan Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20and%20Technical%20Writer&descAlign=50&descAlignY=76&descColor=a5b4fc" alt="Manshi Chauhan Header Banner" />
 </p>
 
 <!-- ═══════════════════════════════ TYPING ANIMATION ═══════════════════════════════ -->
