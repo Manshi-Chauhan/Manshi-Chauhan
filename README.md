@@ -1,13 +1,33 @@
-# 👋 Hi, I'm Manshi Chauhan!
+<!-- ═══════════════════════════════ TOP HEADER BANNER ═══════════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20%26%20Technical%20Writer&descAlign=50&descAlignY=76&descColor=a5b4fc" alt="Manshi Chauhan Header Banner" />
+</p>
 
-### 💻 Python Developer | Web Developer | AI & Technical Content Writer
-📍 **Kanpur, Uttar Pradesh, India 🇮🇳 &nbsp;|&nbsp; 🎓 B.Tech CSE (AI & ML) • 2024–2028**
+<!-- ═══════════════════════════════ TYPING ANIMATION ═══════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Technical+Content+Writer+%E2%9C%8D%EF%B8%8F;Prompt+Engineering+%26+LLMs+%F0%9F%A7%A0;SIH+2026+Hackathon+Participant+%F0%9F%87%AE%F0%9F%87%B3;Always+Building.+Always+Learning.+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manshi-chauhan-673541389/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manshi-Chauhan?tab=repositories)
+<p align="center">
+  <b>B.Tech CSE (AIML) Student | Python Developer | Web Developer | AI & Technical Content Writer</b><br>
+  <i>Passionate about building responsive, user-friendly web experiences, practical data-driven applications, and crafting clear, structured technical content on AI, machine learning, and emerging tech.</i>
+</p>
 
-*I am a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning who enjoys building practical applications, solving programming problems, and exploring new technologies. Open to internships, collaborations, and learning opportunities.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/manshi-chauhan-673541389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:manshichauhan923@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Manshi-Chauhan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br>
 
 ---
 
@@ -177,4 +197,13 @@ I am always open to discussing new opportunities, open-source collaborations, or
 <p align="center">
   <b>⭐ Thanks for visiting my GitHub profile!</b><br>
   <i>Keep Learning | Keep Building | Keep Growing 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manshi-Chauhan&color=818cf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<!-- ═══════════════════════════════ BOTTOM WAVING FOOTER ═══════════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn" alt="Footer Wave Banner" />
 </p>
