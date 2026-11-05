@@ -33,24 +33,29 @@
 
 ## 👩‍💻 About Me
 
-```yaml
-╔══════════════════════════════════════════════════════════════════╗
-  name       : Manshi Chauhan
-  location   : Kanpur, Uttar Pradesh, India 🇮🇳
-  education  : B.Tech in Computer Science & Engineering (AIML)
-  college    : Krishna Group of Institutions (AKTU) | 2024 → 2028
-  academics  : SGPA 8.3 / 10 (4th Semester)
-  status     : 🟢 Open to Internships, Freelance & Collabs
-  interests  : Python Dev · Web Dev · AI/ML · Technical Writing
-╚══════════════════════════════════════════════════════════════════╝
-```
+> ### *"Building practical software, solving tough programming challenges, and turning complex AI concepts into accessible solutions."*
 
-- 🎓 **B.Tech CSE (AIML)**: Pursuing 4th semester with a strong academic record (**8.3 SGPA**).
-- 🐍 **Python Specialist**: Building real-world tools, automation scripts, and database-backed software.
-- 🌐 **Web Development**: Creating clean, responsive user interfaces with HTML5, CSS3, and JavaScript.
-- 🧠 **AI, LLMs & Prompt Engineering**: Certified in customized LLMs, exploring agents and practical AI pipelines.
-- ✍️ **Technical Writing**: Passionate about breaking down complex AI and software concepts into clear, reader-friendly content.
-- 🚀 **SIH 2026 Participant**: Contributing to the Smart India Hackathon on digital legal metrology systems.
+I am a **Computer Science undergraduate** specializing in **Artificial Intelligence & Machine Learning (AIML)** at **Krishna Group of Institutions, AKTU** (Batch of 2024–2028) with a strong academic standing (**SGPA: 8.3 / 10**). 
+
+As a dedicated **Python Developer** and **AI Enthusiast**, I focus on building practical desktop and web applications, writing clean automation workflows, and analyzing real-world datasets. I am also deeply passionate about **Technical Content Writing**, specializing in explaining cutting-edge LLMs, prompt engineering techniques, and machine learning architectures in clear, engaging, and reader-friendly language.
+
+---
+
+### 🌟 Profile Overview
+
+| 🎓 Academic Foundation | 💻 Technical Focus | 🚀 Industry & Hackathons |
+| :--- | :--- | :--- |
+| • **Degree:** B.Tech CSE (AI & ML)<br>• **Institution:** Krishna Group of Institutions (AKTU)<br>• **Batch:** 2024 → 2028 (4th Semester)<br>• **Academic Score:** **SGPA 8.3 / 10**<br>• **High School:** Class XII UP Board (**83%**) | • **Languages:** Python, Java, C, C++, SQL<br>• **Web:** HTML5, CSS3, JavaScript<br>• **Databases:** MySQL, SQLite, DBMS<br>• **Backend:** FastAPI, Object-Oriented Design<br>• **GUI & Tools:** Tkinter, CustomTkinter, Git | • **Internship:** Python Developer Intern @ **upSkill** (2026)<br>• **Hackathon:** **Smart India Hackathon (SIH 2026)**<br>• **Certifications:** Columbia (OpenAI LLMs), IBM, upSkill<br>• **Availability:** 🟢 **Open to Internships & Collabs** |
+
+---
+
+### 🔍 What I Do & What Drives Me
+
+- 🐍 **Full-Cycle Python Development**: Crafting everything from GUI applications (CustomTkinter) and encryption utilities to automated file parsing and data processing scripts.
+- 🤖 **Artificial Intelligence & Prompt Engineering**: Experimenting with customized LLMs, prompt patterns, and autonomous agent architectures to solve domain-specific problems.
+- 📊 **Exploratory Data Analysis (EDA)**: Transforming raw, unstructured datasets into interactive visual dashboards and meaningful business insights using Pandas, NumPy, and Microsoft Excel.
+- ✍️ **Technical Communication**: Researching emerging technologies and writing structured documentation, articles, and guides that make technical topics intuitive.
+- 🤝 **Continuous Learning & Collaboration**: Regularly practicing Data Structures & Algorithms (DSA), building open-source projects, and collaborating with cross-functional teams.
 
 ---
 
