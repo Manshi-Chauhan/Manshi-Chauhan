@@ -1,12 +1,12 @@
 <!-- ═══════════════════════════════ HEADER BANNER ═══════════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20%26%20Technical%20Writer&descAlign=50&descAlignY=76&descColor=a5b4fc" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Manshi%20Chauhan&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20%26%20Technical%20Writer&descAlign=50&descAlignY=76&descColor=a5b4fc" alt="Manshi Chauhan Banner" />
 </p>
 
 <!-- ═══════════════════════════════ TYPING ANIMATION ═══════════════════════════════ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Technical+Content+Writer+%E2%9C%8D%EF%B8%8F;Prompt+Engineering+%26+LLMs+%F0%9F%A7%A0;SIH+2026+Hackathon+Participant+%F0%9F%87%AE%F0%9F%87%B3;Always+Building.+Always+Learning.+%F0%9F%9A%80" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=818CF8&center=true&vCenter=true&width=720&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;AI+%26+Technical+Content+Writer+%E2%9C%8D%EF%B8%8F;Prompt+Engineering+%26+LLMs+%F0%9F%A7%A0;SIH+2026+Hackathon+Participant+%F0%9F%87%AE%F0%9F%87%B3;Always+Building.+Always+Learning.+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
 
 <p align="center">
   <b>B.Tech CSE (AIML) Student | Python Developer | Web Developer | AI & Technical Content Writer</b><br>
@@ -68,24 +68,32 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Manshi-Chauhan/Manshi-Chauhan/main/assets/profile.jpg"
+<img src="./assets/profile.jpg"
      width="200"
-     style="border-radius:16px; border: 3px solid #818cf8;"
-     alt="Manshi Chauhan"/>
+     alt="Manshi Chauhan Profile Photo"/>
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manshi-chauhan-673541389/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/manshi-chauhan-673541389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:manshichauhan923@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Manshi-Chauhan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manshi-Chauhan?tab=repositories)
-
-<br>
-
-<img src="https://img.shields.io/badge/📍_Kanpur,_UP,_India-6366f1?style=flat-square"/>
-<br>
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-Internships_·_Collabs-22c55e?style=flat-square"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Kanpur,_UP,_India-6366f1?style=flat-square" alt="Kanpur, India" /><br>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Open_to_Work-Internships_%C2%B7_Collabs-22c55e?style=flat-square" alt="Open to Work" />
+</p>
 
 </td>
 </tr>
@@ -106,44 +114,52 @@
 <!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
 ## 🛠️ Technical Skills
 
-<div align="center">
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🌐 Web Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-#### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-#### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🧠 AI, LLMs & Technical Writing
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LLM_Concepts-412991?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM Concepts" />
+  <img src="https://img.shields.io/badge/Technical_Writing-20B2AA?style=for-the-badge&logo=readme&logoColor=white" alt="Technical Writing" />
+  <img src="https://img.shields.io/badge/Technical_Research-4682B4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Research" />
+</p>
 
-#### 🧠 AI, LLMs & Content Writing
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![LLM Concepts](https://img.shields.io/badge/LLM_Concepts-412991?style=for-the-badge&logo=huggingface&logoColor=white)
-![Technical Writing](https://img.shields.io/badge/Technical_Writing-20B2AA?style=for-the-badge&logo=readme&logoColor=white)
-![Research](https://img.shields.io/badge/Technical_Research-4682B4?style=for-the-badge&logo=google-scholar&logoColor=white)
+### 🐍 Python Libraries & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Tkinter-6366f1?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/CustomTkinter-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="CustomTkinter" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-#### 🐍 Python Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-6366f1?style=for-the-badge&logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-</div>
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
 ---
 
@@ -291,7 +307,9 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-Chauhan&layout=donut&langs_count=5&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=e2e8f0" />
+<a href="https://github.com/Manshi-Chauhan">
+  <img src="https://streak-stats.demolab.com/?user=Manshi-Chauhan&theme=midnight-purple&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -328,28 +346,33 @@
 <!-- ═══════════════════════════════ CONNECT ═══════════════════════════════ -->
 ## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <i>I am always interested in connecting with developers, recruiters, technology enthusiasts, and people who love building innovative projects.</i>
+</p>
 
-*I am always interested in connecting with developers, recruiters, technology enthusiasts, and people who love building innovative projects.*
+<p align="center">
+  <a href="https://www.linkedin.com/in/manshi-chauhan-673541389/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-manshi--chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:manshichauhan923@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-manshichauhan923-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Manshi-Chauhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Manshi--Chauhan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <b>⭐ Thanks for visiting my GitHub profile!</b><br>
+  <i>Keep Learning | Keep Building | Keep Growing 🚀</i>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manshi--chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manshi-chauhan-673541389/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-manshichauhan923-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshichauhan923@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Manshi--Chauhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manshi-Chauhan)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manshi-Chauhan&color=818cf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<br><br>
-
-<b>⭐ Thanks for visiting my GitHub profile!</b>  
-<br>
-<i>Keep Learning | Keep Building | Keep Growing 🚀</i>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Manshi-Chauhan&color=818cf8&style=flat-square&label=Profile+Views" />
-<br><br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn"/>
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer&animation=fadeIn" alt="Footer Banner" />
+</p>
